@@ -186,13 +186,13 @@
 				<a class="header-btn" href="#" title="" style="margin-top: 15px;">DONATE NOW</a>
 				<nav class="menu">
 					<ul id="menu-navigation">
-						<li style="cursor: pointer;"><a href="../index.html">Home</a>
+						<li style="cursor: pointer;"><a href="../index.php">Home</a>
 						</li>
 						<li><a href="#about">About-Us</a>
 						</li>
-						<li><a href="../index.html">Project</a>
-						<li><a href="../index.html">Admin</a>
-						<li><a href="../index.html">Contact-Us</a>
+						<li><a href="../index.php">Project</a>
+						<li><a href="../index.php">Admin</a>
+						<li><a href="../index.php">Contact-Us</a>
 						</li>
 					</ul>
 				</nav><!-- Menu -->
@@ -223,7 +223,7 @@
 			</div>
 			<div class="responsive-logomenu">
 				<div class="container">
-					<a href="index.html" title=""><img src="../images/logo.png" alt="Logo" width="42" height="42" /></a>
+					<a href="index.php" title=""><img src="../images/logo.png" alt="Logo" width="42" height="42" /></a>
 					<span class="menu-btn"><i class="fa fa-th-list"></i></span>
 				</div>
 			</div>
@@ -420,7 +420,7 @@
 			<div class="container">
 				<p>Copyright Â© 2019 Global News. <span>All rights reserved.</span> </p>
 				<ul>
-					<li><a href="index.html" title="">HOME</a></li>
+					<li><a href="index.php" title="">HOME</a></li>
 					<li><a href="about.html" title="">ABOUT</a></li>
 					<li><a href="elements.html" title="">ELEMENTS</a></li>
 					<li><a href="blog-with-sidebar.html" title="">BLOG</a></li>

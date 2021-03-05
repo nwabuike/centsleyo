@@ -146,7 +146,7 @@
                 <a class="header-btn" href="donation.php" title="" style="margin-top: 15px;">DONATE NOW</a>
                 <nav class="menu">
                     <ul id="menu-navigation">
-                        <li style="cursor: pointer; "  class="active"><a href="./index.html">Home</a>
+                        <li style="cursor: pointer; "  class="active"><a href="./index.php">Home</a>
                         </li>
                         <li><a href="./about.php">About-Us</a>
                         </li>
@@ -211,7 +211,7 @@
 			</div>
 			<div class="responsive-logomenu">
 				<div class="container">
-					<a href="index.html" title=""><img src="images/logo.png" alt="Logo" width="60" height="60">
+					<a href="index.php" title=""><img src="images/logo.png" alt="Logo" width="60" height="60">
 						<h1 style="color: #e3c60a;"><i>CENSTLEYO</i></h1>
 					</a>
 					<span class="menu-btn"><i class="fa fa-th-list"></i></span>
@@ -220,7 +220,7 @@
 			<div class="responsive-menu">
 				<span class="close-btn"><i class="fa fa-close"></i></span>
 				<ul>
-					<li class="has-dropdown"><a href="index.html" title="">Home</a>
+					<li class="has-dropdown"><a href="index.php" title="">Home</a>
 					</li>
 					<li class="has-dropdown"><a href="about.php" title="">About-Us</a></li>
 					<li class="has-dropdown"><a href="" title="">Programme</a>
@@ -296,7 +296,7 @@
 			</div>
 		</div>
   <!-- Modal -->
-  <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+  <!-- <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 	<div class="modal-dialog modal-dialog-centered" role="document">
 	  <div class="modal-content">
 		<div class="modal-header">
@@ -323,7 +323,7 @@
 		</div>
 	  </div>
 	</div>
-  </div>
+  </div> -->
 		<section id="about">
 			<div class="container">
 				<div class="row">
@@ -671,7 +671,7 @@
 		<div class="container">
 			<p>Copyright &copy; 2019 <?php echo date("Y");?> censtleyo. <span>All rights reserved.</span> </p>
 			<ul>
-				<li><a href="./index.html">Home</a>
+				<li><a href="./index.php">Home</a>
 				</li>
 				<li><a href="./about.php">About-Us</a>
 				</li>

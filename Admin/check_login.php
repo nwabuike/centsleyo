@@ -33,7 +33,7 @@ if (isset($_POST['login_btn'])) {
 			} else {
 				$_SESSION['message'] = "You are now logged in";
 				// redirect to public area
-				header('location: ../index.html');				
+				header('location: ../index.php');				
 				exit(0);
 			}
 		} else {

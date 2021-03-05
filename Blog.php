@@ -162,7 +162,7 @@ $topics = getAllTopics();
                 <a class="header-btn" href="Blog.php?logout='1'" title="" style="margin-top: 15px; margin -left:-20px;">Logout</a>
                 <nav class="menu">
                     <ul id="menu-navigation">
-                        <li style="cursor: pointer;"><a href="index.html">Home</a>
+                        <li style="cursor: pointer;"><a href="index.php">Home</a>
                         </li>
                         <li><a href="about.php">About-Us</a>
                         </li>
@@ -238,7 +238,7 @@ $topics = getAllTopics();
             </div>
             <div class="responsive-logomenu">
                 <div class="container">
-                    <a href="index.html" title=""><img src="images/logo.png" alt="Logo" width="42" height="42">
+                    <a href="index.php" title=""><img src="images/logo.png" alt="Logo" width="42" height="42">
                         <h1 style="color: #e3c60a;"><i>CENSTLEYO</i></h1>
                     </a>
                     <span class="menu-btn"><i class="fa fa-th-list"></i></span>
@@ -261,7 +261,7 @@ $topics = getAllTopics();
             <div class="responsive-menu">
                 <span class="close-btn"><i class="fa fa-close"></i></span>
                 <ul>
-                    <li class="has-dropdown"><a href="index.html" title="">Home</a>
+                    <li class="has-dropdown"><a href="index.php" title="">Home</a>
                     </li>
                     <li class="has-dropdown"><a href="about.php" title="">About-Us</a></li>
                     <li class="has-dropdown"><a href="#" title="">Programme</a>
@@ -613,7 +613,7 @@ $topics = getAllTopics();
             <div class="container">
                 <p>Copyright &copy; <?php echo date("Y"); ?> censtleyo. <span>All rights reserved.</span> </p>
                 <ul>
-                    <li><a href="index.html">Home</a>
+                    <li><a href="index.php">Home</a>
                     </li>
                     <li><a href="about.php">About-Us</a>
                     </li>
